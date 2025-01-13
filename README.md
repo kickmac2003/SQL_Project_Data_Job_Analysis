@@ -117,7 +117,7 @@ Excel and Tableau, commonly associated with data analysis and visualization, app
 These insights suggest that proficiency in **SQL**, **Python**, and common data analysis tools like **Excel** and **Tableau** 
 is critical for Data Analyst roles, while knowledge of additional technologies like **R** or **big data tools** can be advantageous.
 
-![Top 10 Skills for Top Payin Jobs](assets/2_top_10_skills.jpg)
+![Top 10 Skills for Top Payin Jobs](assets/2_top_skills.jpg)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts ###
