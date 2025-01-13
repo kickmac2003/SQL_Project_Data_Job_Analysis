@@ -50,7 +50,8 @@ GROUP BY
     required_skills.job_title,
     required_skills.salary_year_avg
 ORDER BY
-    required_skills.salary_year_avg DESC;
+    required_skills.salary_year_avg DESC
+LIMIT 10;
 
 
 
